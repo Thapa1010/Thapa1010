@@ -5,9 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thapa1010&label=Profile%20views&color=0e75b6&style=flat" alt="thapa1010" /> </p>
 
-- 🚀 Full stack web applicaiton [Real Sate App](https://youtu.be/jp5RqQPr1OU)
-
 - 🌱 I’m currently learning **React**
+
+-  **PROJECTS**
+- 🚀 Full stack web applicaiton [Real Sate App](https://youtu.be/jp5RqQPr1OU)
 
 - 🚀 Full stack web applicaiton [Online shopping](https://youtu.be/33EVMjyLX3o)
 
