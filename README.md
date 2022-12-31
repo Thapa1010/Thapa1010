@@ -14,7 +14,7 @@
 
 - 🚀 React banner [https://silly-bunny-0d79a6.netlify.app/](https://silly-bunny-0d79a6.netlify.app/)
 - 
-- 🚀 🆕React Tenzies Game🆕 [https://silly-bunny-0d79a6.netlify.app/](https://silly-bunny-0d79a6.netlify.app/)
+- 🚀 🆕React Tenzies Game🆕 [Tenzies]([https://silly-bunny-0d79a6.netlify.app/](https://tangerine-chebakia-39b76b.netlify.app))
 
 - 👨‍💻 All of my projects are available at [Currently working🚀😁](Currently working🚀😁)
 
