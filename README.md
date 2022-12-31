@@ -13,6 +13,8 @@
 - 🚀 Full stack web applicaiton [Online shopping](https://youtu.be/33EVMjyLX3o)
 
 - 🚀 React banner [https://silly-bunny-0d79a6.netlify.app/](https://silly-bunny-0d79a6.netlify.app/)
+- 
+- 🚀 🆕React Tenzies Game🆕 [https://silly-bunny-0d79a6.netlify.app/](https://silly-bunny-0d79a6.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [Currently working🚀😁](Currently working🚀😁)
 
