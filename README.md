@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React**
 
 -  **PROJECTS**
-- 🚀 Currently Developing Gold shop mamagment system with React and Firebase.
+- 🚀 Currently Developing full stack application with React and Firebase.
 - 🚀 Full stack web applicaiton [Real Sate App](https://youtu.be/jp5RqQPr1OU)
 
 - 🚀 Full stack web applicaiton [Online shopping](https://youtu.be/33EVMjyLX3o)
